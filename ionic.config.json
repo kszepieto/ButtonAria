@@ -1,0 +1,7 @@
+{
+  "name": "ButtonAria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
